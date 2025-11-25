@@ -624,7 +624,7 @@ if __name__ == "__main__":
 
 ---
 
-**License:** This work is released under CC BY 4.0
+
 
 **Contact:** anonymous@research.org
 
