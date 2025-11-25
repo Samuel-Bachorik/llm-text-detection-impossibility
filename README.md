@@ -1,8 +1,7 @@
 # On the Fundamental Impossibility of Reliable Detection of LLM-Generated Text
 
-**Authors:** Anonymous  
+**Authors:** Samuel Bachorík & Claude Sonnet
 **Date:** November 2025  
-**Institution:** Independent Research
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![arXiv](https://img.shields.io/badge/arXiv-2411.xxxxx-b31b1b.svg)](https://arxiv.org)
