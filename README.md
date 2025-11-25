@@ -1,6 +1,6 @@
 # On the Fundamental Mathematical Impossibility of Reliable Detection of LLM-Generated Text
 
-**Authors:** Samuel Bachorík & 
+**Authors:** Samuel Bachorík
 **Date:** November 2025  
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
