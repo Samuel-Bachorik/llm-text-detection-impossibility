@@ -1,4 +1,4 @@
-# On the Fundamental Impossibility of Reliable Detection of LLM-Generated Text
+# On the Fundamental Mathematical Impossibility of Reliable Detection of LLM-Generated Text
 
 **Authors:** Samuel Bachorík & 
 **Date:** November 2025  
